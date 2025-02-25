@@ -1,0 +1,1 @@
+python experiments/launch_nodes.py --robot urx
